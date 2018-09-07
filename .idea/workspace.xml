@@ -1,224 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba46efc-b8f0-4203-856b-070c213cd27a" name="Default" comment="new updation folder">
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Console/Kernel.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Exceptions/Handler.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/Auth/ForgotPasswordController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/Auth/LoginController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/Auth/RegisterController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/Auth/ResetPasswordController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/CompanyController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/Controller.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/DispatchController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/ExpenseController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/IndexController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/InventoryController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/ItemmasterController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/OfferController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/SupplierController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Controllers/UserController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Kernel.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Middleware/AdminMiddleware.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Middleware/EncryptCookies.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Middleware/RedirectIfAuthenticated.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Middleware/TrimStrings.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Middleware/TrustProxies.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Middleware/UsrMiddleware.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Http/Middleware/VerifyCsrfToken.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Providers/AppServiceProvider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Providers/AuthServiceProvider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Providers/BroadcastServiceProvider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Providers/EventServiceProvider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/Providers/RouteServiceProvider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/User.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/add_company.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/cities.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/dispatch_order.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/dispatch_po_count.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/expense_category.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/expense_master.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/inventory_item.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/inventory_make.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/inventory_master.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/inventory_serial.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/inventory_supplier.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/itemmaster.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/itemmaster_category.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/itemmaster_main_category.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/itemmaster_sub_category.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/offer_item_master.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/offer_master.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/order_master.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/app/supplier.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/artisan" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/assets/js/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/assets/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/assets/js/components/ExampleComponent.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/assets/sass/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/assets/sass/app.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/bootstrap/app.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/bootstrap/cache/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/composer.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/app.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/auth.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/broadcasting.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/cache.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/database.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/dompdf.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/filesystems.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/hashing.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/logging.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/mail.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/queue.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/services.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/session.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/config/view.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/database/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/database/factories/UserFactory.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/database/migrations/2018_08_13_091553_create_dispatch_orders_table.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/database/migrations/2018_08_13_114117_create_dispatch_po_counts_table.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/database/seeds/DatabaseSeeder.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/error_log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/phpunit.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/.htaccess" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/04-08-2018_053353.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/04-08-2018_124246.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/04-08-2018_124505.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/06-08-2018_073645.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/12-07-2018_130154.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/29-06-2018_060224.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/29-06-2018_134749.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/30-07-2018_104736.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/01-08-2018_130235.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/02-08-2018_113410.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/02-08-2018_120201.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/02-08-2018_130322.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/02-08-2018_132951.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/02-08-2018_133030.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/04-08-2018_111641.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/04-08-2018_172924.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/12-07-2018_124528.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/12-07-2018_125959.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/13-08-2018_153415.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/27-06-2018_073955.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/27-06-2018_074251.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/27-06-2018_075523.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/27-06-2018_092113.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/27-06-2018_152234.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/28-06-2018_170959.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/28-06-2018_180328.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_054924.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_061127.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_093522.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_094347.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_095028.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_124047.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_134538.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_134944.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/29-06-2018_135838.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/30-07-2018_160404.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/public/offerpdf/30-07-2018_160818.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/lang/en/auth.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/lang/en/pagination.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/lang/en/passwords.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/lang/en/validation.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/company/addcompany.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/company/viewcompany.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/dispatch/dispatch.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/expense/adminexpense.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/expense/editempexpense.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/expense/employeeexpense.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/expense/expense_category.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/expense/userexpense.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/expense/viewempexpense.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/expense/viewexpense.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/index/index.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/index/login.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/inventory/add_item.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/inventory/addinventory.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/inventory/editinventory.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/inventory/edititem.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/inventory/view_item.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/inventory/viewinventory.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/inventory/viewstock.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/itemmaster/allcategory.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/itemmaster/category.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/itemmaster/main_category.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/itemmaster/make.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/itemmaster/sub_category.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/layout/loginmaster.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/layout/master.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/offer/editoffer.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/offer/offer.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/offer/offerpdfview.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/offer/offerpo.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/offer/order.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/offer/test.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/offer/viewoffer.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/supplier/addsupplier.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/supplier/viewsupplier.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/user/adduser.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/user/dashboard.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/user/edituser.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/user/viewuser.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/resources/views/welcome.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/routes/api.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/routes/channels.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/routes/console.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/routes/web.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/server.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/app/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/app/public/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/0093e7c67e521af3af762bd948b3a110.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/0093e7c67e521af3af762bd948b3a110.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/2adb8f3e4a7f1a952a79706199d8aa1e.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/2adb8f3e4a7f1a952a79706199d8aa1e.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/2adb8f3e4a7f1a952a79706199d8aa1e.ufm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/2d3997f294f543850a36b29f6bb8c1f3.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/2d3997f294f543850a36b29f6bb8c1f3.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/3271c20c1b139fd9506b5905319a3a4e.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/3271c20c1b139fd9506b5905319a3a4e.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/3e24783a2761f32fe560d0d86b351b77.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/3e24783a2761f32fe560d0d86b351b77.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/4162a511d9c9969949fdf4a0d6e58d2b.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/4162a511d9c9969949fdf4a0d6e58d2b.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/4f15d5a9aae2f2d087431406337b314f.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/4f15d5a9aae2f2d087431406337b314f.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/666e491ea8dd0dfdb76880e685e5c172.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/666e491ea8dd0dfdb76880e685e5c172.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/81d8424ee143acbf0bbb5e5ed25d0b48.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/81d8424ee143acbf0bbb5e5ed25d0b48.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/8c41a2779ee0cbb8e0ab506a8a24150e.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/8c41a2779ee0cbb8e0ab506a8a24150e.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/Helvetica-Bold.afm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/Helvetica.afm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/Times-Bold.afm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/Times-Roman.afm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/b17b34c7de09197d41edfeee619fe544.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/b17b34c7de09197d41edfeee619fe544.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/b6bea4b817ece4bf0e0fb0a539506c90.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/b6bea4b817ece4bf0e0fb0a539506c90.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/bb423096cff85a541336ea6cfd49667a.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/bb423096cff85a541336ea6cfd49667a.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/dompdf_font_family_cache.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/f90f471bc5eb2ba7080bf6aef1b948ca.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/fonts/f90f471bc5eb2ba7080bf6aef1b948ca.ufm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/framework/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/framework/cache/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/framework/sessions/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/framework/testing/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/framework/views/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/storage/logs/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/tests/CreatesApplication.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/tests/Feature/ExampleTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/tests/TestCase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/tests/Unit/ExampleTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digitron/digitron/webpack.mix.js" afterPath="" />
-    </list>
+    <list default="true" id="8ba46efc-b8f0-4203-856b-070c213cd27a" name="Default" comment="new updation folder" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +9,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="DatabaseView">
@@ -243,12 +26,32 @@
     <expand />
     <select />
   </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>daterangepicker_start</find>
+      <find>this.endDate</find>
+      <find>format</find>
+    </findStrings>
+  </component>
   <component name="Git.Rebase.Settings">
     <option name="PRESERVE_MERGES" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/phpstorm64.vmoptions" />
+        <option value="$PROJECT_DIR$/digitron/.env" />
+        <option value="$PROJECT_DIR$/assets/vendors/bower_components/bootstrap-daterangepicker/daterangepicker.js" />
+        <option value="$PROJECT_DIR$/assets/dist/js/form-picker-data.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -278,8 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,10 +88,38 @@
               <item name="digitron" type="b2602c69:ProjectViewProjectNode" />
               <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="digitron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="digitron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="digitron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="digitron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="digitron" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="expense" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,7 +157,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536234856431</updated>
-      <workItem from="1536234857660" duration="6298000" />
+      <workItem from="1536234857660" duration="9323000" />
+      <workItem from="1536246927277" duration="235000" />
+      <workItem from="1536247183047" duration="5928000" />
     </task>
     <task id="LOCAL-00001" summary="new updation">
       <created>1536235022221</created>
@@ -348,29 +179,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6298000" />
+    <option name="totallyTimeSpent" value="15486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15464684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033457" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936803" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15464684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033457" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936803" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -388,5 +219,64 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/phpstorm64.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digitron/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digitron/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/dist/js/form-picker-data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="72" column="23" lean-forward="false" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendors/bower_components/bootstrap-daterangepicker/daterangepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digitron/resources/views/expense/expense_report.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+          <folding>
+            <marker date="1535801961000" expanded="true" signature="9:24" ph="..." />
+            <marker date="1535801961000" expanded="true" signature="35:44" ph="..." />
+            <marker date="1535801961000" expanded="true" signature="495:515" ph="..." />
+            <marker date="1535801961000" expanded="true" signature="1603:1636" ph="..." />
+            <marker date="1535801961000" expanded="true" signature="4162:4228" ph="..." />
+            <marker date="1535801961000" expanded="true" signature="4293:4378" ph="..." />
+            <marker date="1535801961000" expanded="true" signature="4757:4774" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

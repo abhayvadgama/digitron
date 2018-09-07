@@ -70,7 +70,7 @@ $(document).ready(function() {
 	$('.input-daterange-datepicker').daterangepicker({
 	  buttonClasses: ['btn', 'btn-sm'],
 			applyClass: 'btn-info',
-        format: 'DD/MM/YYYY',
+        	minDate: 'DD/MM/YYYY',
 			cancelClass: 'btn-default'
 	});
 	$('.input-daterange-timepicker').daterangepicker({
